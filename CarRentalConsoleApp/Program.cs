@@ -26,7 +26,7 @@ class Program
                     break;
 
                 case "2":
-                    Console.WriteLine("Test2");
+                    Rent.CarRent();
                     break;
 
                 case "3":
