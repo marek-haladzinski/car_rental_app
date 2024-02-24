@@ -1,0 +1,52 @@
+[
+    {
+        "Id": 1,
+        "Marka": "Skoda Citigo",
+        "Price": 70
+    },
+    {
+        "Id": 2,
+        "Marka": "Toyota Aygo",
+        "Price": 90
+    },
+    {
+        "Id": 3,
+        "Marka": "Fiat 500",
+        "Price": 110
+    },
+    {
+        "Id": 4,
+        "Marka": "Ford Focus",
+        "Price": 160
+    },
+    {
+        "Id": 5,
+        "Marka": "Kia Ceed",
+        "Price": 150
+    },
+    {
+        "Id": 6,
+        "Marka": "Volkswagen Golf",
+        "Price": 160
+    },
+    {
+        "Id": 7,
+        "Marka": "Hyundai Kona Electric",
+        "Price": 180
+    },
+    {
+        "Id": 8,
+        "Marka": "Audi A6 Allroad",
+        "Price": 290
+    },
+    {
+        "Id": 9,
+        "Marka": "Mercedes E270 AMG",
+        "Price": 320
+    },
+    {
+        "Id": 10,
+        "Marka": "Tesla Model S",
+        "Price": 350
+    }
+]
