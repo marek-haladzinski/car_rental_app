@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.Json.Serialization;
 
 class Program
 {
@@ -20,7 +21,8 @@ class Program
             switch (wybor)
             {
                 case "1":
-                    Display.DisplayKIS();
+                    Display.DisplayK();
+                    Display.DisplayS();
                     break;
 
                 case "2":
@@ -37,6 +39,6 @@ class Program
             }
 
             Display.DisplayWelcome();
-        }
+        }  
     }
 }
